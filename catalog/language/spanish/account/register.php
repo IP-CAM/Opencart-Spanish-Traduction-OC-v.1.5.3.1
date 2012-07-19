@@ -10,7 +10,7 @@ $_['text_your_details']    = 'Tus datos personales';
 $_['text_your_address']    = 'Tu dirección';
 $_['text_newsletter']      = 'Boletín de noticias';
 $_['text_your_password']   = 'Tu contraseña';
-$_['text_agree']           =  'He leido y acepto las <a class="thickbox" href="%s" alt="%s"><b>%s</b></a>';
+$_['text_agree']           =  'He leido y acepto la <a class="thickbox" href="%s" alt="%s"><b>%s</b></a>';
 
 // Entry
 $_['entry_firstname']      = 'Nombre:';
@@ -19,7 +19,7 @@ $_['entry_email']          = 'E-Mail:';
 $_['entry_telephone']      = 'Teléfono:';
 $_['entry_fax']            = 'Fax:';
 $_['entry_account']        = 'Cuenta:';
-$_['entry_company']        = 'Compañia:';
+$_['entry_company']        = 'Empresa:';
 $_['entry_company_id']     = 'ID de la comapñía';
 $_['entry_tax_id']         = 'ID del Impuesto:';
 $_['entry_address_1']      = 'Dirección 1:';
@@ -27,13 +27,13 @@ $_['entry_address_2']      = 'Dirección 2:';
 $_['entry_postcode']       = 'Código postal:';
 $_['entry_city']           = 'Ciudad:';
 $_['entry_country']        = 'País:';
-$_['entry_zone']           = 'Región / Estado:';
-$_['entry_newsletter']     = 'Suscripción:';
+$_['entry_zone']           = 'Provincia:';
+$_['entry_newsletter']     = 'Suscribir:';
 $_['entry_password']       = 'Contraseña:';
 $_['entry_confirm']        = 'Confirma contraseña:';
 
 // Error
-$_['error_exists']         = 'Cuidado:La dirección de e-mail ya está registrad!';
+$_['error_exists']         = 'Aviso:La dirección de e-mail ya está registrad!';
 $_['error_firstname']      = 'El nombre debe tener entre 1 y 32 carácteres!';
 $_['error_lastname']       = 'El apellido/s debe tener entre 1 y 32 carácteres!';
 $_['error_email']          = 'La dirección de email no parece ser válida!';
@@ -47,6 +47,6 @@ $_['error_address_1']      = 'La dirección 1 debe tener entre 3 y 128 carácter
 $_['error_city']           = 'La ciudad debe tener entre 2 y 128 carácteres!';
 $_['error_postcode']       = 'El código postal debe tener entre 2 y 10 carácteres!';
 $_['error_country']        = 'Por favor selecciona un país!';
-$_['error_zone']           = 'Por favor selecciona una región / estado!';
-$_['error_agree']          = 'Cuidado: Debes aceptar las %s!';
+$_['error_zone']           = 'Por favor selecciona una provincia!';
+$_['error_agree']          = 'Aviso: Debes aceptar la %s';
 ?>

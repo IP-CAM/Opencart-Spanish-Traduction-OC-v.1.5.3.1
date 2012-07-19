@@ -55,7 +55,7 @@ $_['entry_address_2']                = 'Dirección 2:';
 $_['entry_postcode']                 = 'Código postal:';
 $_['entry_city']                     = 'Ciudad:';
 $_['entry_country']                  = 'País:';
-$_['entry_zone']                     = 'Región / Estado:';
+$_['entry_zone']                     = 'Provincia:';
 $_['entry_newsletter']               = 'Deseo suscribirme al boletín de noticias de %s.';
 $_['entry_shipping'] 	             = 'Mi dirección de entrega y facturación es la misma.';
 
@@ -77,7 +77,7 @@ $_['error_address_1']                = 'La Dirección 1 debe tener entre 3 y 128
 $_['error_city']                     = 'La ciudad debe tener entre 2 y 128 caracteres!';
 $_['error_postcode']                 = 'El código postal debe tener entre 2 y 10 caracteres!';
 $_['error_country']                  = 'Por favor seleccione un país!';
-$_['error_zone']                     = 'Por favor seleccione una región / estado!';
+$_['error_zone']                     = 'Por favor seleccione una Provincia!';
 $_['error_agree']                    = 'Advertencia: Usted debe estar de acuerdo con the %s!';
 $_['error_address']                  = 'Advertencia: Usted debe seleccionar una dirección!';
 $_['error_shipping']                 = 'Advertencia: Método de envío requerido!';

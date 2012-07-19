@@ -25,5 +25,5 @@ $_['error_from_name']  = 'Tu nombre debe estar entre 1 y 64 carácteres!';
 $_['error_email']      = 'El E-Mail no parece ser valido!';
 $_['error_theme']      = 'Debes seleccionar un tema!';
 $_['error_amount']     = 'La Cantidad debe estar entre %s y %s!';
-$_['error_agree']      = 'Cuidado: Tu debes estar de acuerdo que los certificados de regalo no son reembolsables!';
+$_['error_agree']      = 'Aviso: Tu debes estar de acuerdo que los certificados de regalo no son reembolsables!';
 ?>

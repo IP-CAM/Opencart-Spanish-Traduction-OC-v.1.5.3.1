@@ -16,7 +16,7 @@ $_['entry_telephone']  = 'Teléfono:';
 $_['entry_fax']        = 'Fax:';
 
 // Error
-$_['error_exists']     = 'Cuidado: La dirección de e-mail ya está registrada!';
+$_['error_exists']     = 'Aviso: La dirección de e-mail ya está registrada!';
 $_['error_firstname']  = 'El nombre debe tener entre 1 y 32 carácteres!';
 $_['error_lastname']   = 'El apellido/s debe tener entre 1 y 32 carácteres!';
 $_['error_email']      = 'La dirección de e-mail no parece ser válida!';

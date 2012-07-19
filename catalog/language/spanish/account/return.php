@@ -18,7 +18,7 @@ $_['text_date_added']    = 'Fecha de alta:';
 $_['text_customer']      = 'Cliente:';
 $_['text_comment']       = 'Comentarios de devolución';
 $_['text_history']       = 'Historial de devoluciones';
-$_['text_empty']         = 'No has hecho ningún devolución de pedido previamente!';
+$_['text_empty']         = 'No has hecho ninguna devolución de pedido.';
 $_['text_error']         = 'Tu petición de devolución no ha sido encontrada!';
 
 // Column

@@ -21,12 +21,12 @@ $_['entry_address_2']   = 'Dirección 2:';
 $_['entry_postcode']    = 'Código Postal:';
 $_['entry_city']        = 'Ciudad:';
 $_['entry_country']     = 'Pais:';
-$_['entry_zone']        = 'Región / Estado:';
+$_['entry_zone']        = 'Provincia:';
 $_['entry_default']     = 'Dirección por defecto:';
 
 // Error
-$_['error_delete']      = 'Cuidado: Usted debe agregar al menos una dirección';
-$_['error_default']     = 'Cuidado: Usted no puede eliminar su dirección por defecto!';
+$_['error_delete']      = 'Aviso: Usted debe agregar al menos una dirección';
+$_['error_default']     = 'Aviso: Usted no puede eliminar su dirección por defecto!';
 $_['error_firstname']   = 'El campo Nombre debe tener entre 1 y 32 carácteres';
 $_['error_lastname']    = 'El campo Apellido debe tener entre 1 y 32 carácteres';
 $_['error_vat']         = 'El valor del impuesto es invalido';

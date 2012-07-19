@@ -18,7 +18,7 @@ $_['text_use_coupon']        = 'Usar código del Cupón';
 $_['text_use_voucher']       = 'Usar vale de regalo';
 $_['text_use_reward']        = 'Usar puntos de recompensa (Disponible %s)';
 $_['text_shipping_estimate'] = 'Estimar envío &amp; Impuestos';
-$_['text_shipping_detail']   = 'Introduce tu destino para obtener un estimado para tu envío.';
+$_['text_shipping_detail']   = 'Introduce tu destino para obtener un precio estimado para tu envío.';
 $_['text_shipping_method']   = 'Por favor seleeciona el metodo preferido de envío para usar en este pedido.';
 $_['text_empty']             = 'Tu carrito esta vacío!';
 
@@ -35,22 +35,22 @@ $_['entry_coupon']           = 'Introduce tu cupón aquí:';
 $_['entry_voucher']          = 'Introduce el código del vale de regalo aquí:';
 $_['entry_reward']           = 'Puntos a utilizar (Max %s):';
 $_['entry_country']          = 'País:';
-$_['entry_zone']             = 'Región / Estado:';
+$_['entry_zone']             = 'Provincia:';
 $_['entry_postcode']         = 'Código Postal:';
 
 // Error
 $_['error_stock']            = 'Producto marcado con *** no están disponibles en la cantidad desead o no están en el stock!';
 $_['error_minimum']          = 'Cantidad mínima del pedido para %s es %s!';	
 $_['error_required']         = '%s obligatorio!';	
-$_['error_product']          = 'Cuidado: No hay productos en el carrito!';	
-$_['error_coupon']           = 'Cuidado: El cupón es invalido, o ya expiro o ya alcanzo su uso límite!';
-$_['error_voucher']          = 'Cuidado: El vale de regalo es invalido o el saldo se ha agotado!';
-$_['error_reward']           = 'Cuidado: Por favor introduce la cantidad de puntos de recompensa a utilizar!';	
-$_['error_points']           = 'Cuidado: No tienes %s puntos de recompensa!';
-$_['error_maximum']          = 'Cuidado: El número máximo de puntos que pueden ser aplicados es %s!';
+$_['error_product']          = 'Aviso: No hay productos en el carrito!';	
+$_['error_coupon']           = 'Aviso: El cupón es invalido, o ya expiro o ya alcanzo su uso límite!';
+$_['error_voucher']          = 'Aviso: El vale de regalo es invalido o el saldo se ha agotado!';
+$_['error_reward']           = 'Aviso: Por favor introduce la cantidad de puntos de recompensa a utilizar!';	
+$_['error_points']           = 'Aviso: No tienes %s puntos de recompensa!';
+$_['error_maximum']          = 'Aviso: El número máximo de puntos que pueden ser aplicados es %s!';
 $_['error_postcode']         = 'El código postal debe tener entre 2 y 10  carácteres!';
 $_['error_country']          = 'Por favor seleeciona un País!';
-$_['error_zone']             = 'Por favor seleeciona un región / Estado!';
-$_['error_shipping']         = 'Cuidado: Metodo de envío obligatorio!';
-$_['error_no_shipping']      = 'Cuidado: Ninguna opción de envío disponible. Por favor <a href="%s">Contactanos</a> por ayuda!';
+$_['error_zone']             = 'Por favor seleeciona un Provincia!';
+$_['error_shipping']         = 'Aviso: Metodo de envío obligatorio!';
+$_['error_no_shipping']      = 'Aviso: Ninguna opción de envío disponible. Por favor <a href="%s">Contactanos</a> por ayuda!';
 ?>

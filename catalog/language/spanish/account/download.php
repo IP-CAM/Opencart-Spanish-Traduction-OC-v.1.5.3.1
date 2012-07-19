@@ -10,5 +10,5 @@ $_['text_date_added'] = 'Fecha de alta:';
 $_['text_name']       = 'Nombre:';
 $_['text_remaining']  = 'Restantes:';
 $_['text_size']       = 'Tamaño:';
-$_['text_empty']      = 'No has hecho pedidos de descarga con anterioridad!';
+$_['text_empty']      = 'No has hecho ningún pedido con descarga.';
 ?>

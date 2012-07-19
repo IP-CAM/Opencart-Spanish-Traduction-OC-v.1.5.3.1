@@ -22,7 +22,7 @@ $_['entry_address_2']   = 'Dirección 2:';
 $_['entry_postcode']    = 'Código postal:';
 $_['entry_city']        = 'Ciudad:';
 $_['entry_country']     = 'País:';
-$_['entry_zone']        = 'Región / Estado:';
+$_['entry_zone']        = 'Provincia:';
 
 // Error
 $_['error_exists']      = 'Error: La dirección de e-mail ya está registrada!';
@@ -33,6 +33,6 @@ $_['error_telephone']   = 'El teléfono debe tener entre 3 y 32 carácteres!';
 $_['error_address_1']   = 'La dirección 1 debe tener entre 3 y 128 carácteres!';
 $_['error_city']        = 'La ciudad debe tener entre 2 y 128 carácteres!';
 $_['error_country']     = 'Por favor selecciona un país!';
-$_['error_zone']        = 'Por favor selecciona una región / estado!';
+$_['error_zone']        = 'Por favor selecciona una Provincia!';
 $_['error_postcode']    = 'El código postal debe tener entre 2 y 10 carácteres!';
 ?>
